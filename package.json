@@ -1,0 +1,21 @@
+{
+  "name": "testrun",
+  "version": "1.0.0",
+  "description": "Testing stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "test",
+    "thi",
+    "is",
+    "fun"
+  ],
+  "author": "Kyle Heuchan",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
